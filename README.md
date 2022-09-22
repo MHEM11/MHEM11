@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MHEM11
+- 👀 I’m interested in Programing 
+- 🌱 I’m currently learning Computer Science
+- 📫 How to reach me on jensenmagnushem@gmail.com
