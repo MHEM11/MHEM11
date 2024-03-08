@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MHEM11
-- 👀 I’m interested in Programing 
+- 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Computer Science at Aalborg University 
 - 📫 Reach me on jensenmagnushem@gmail.com
