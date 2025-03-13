@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MHEM11, also known as Magnus Hem 
 - 👀 I have a passion for progamming
 - 🌱 I’m currently studying my Masters in Computer Science at Aalborg University 
-- 📫 Reach me on jensenmagnushem@gmail.com, and checkout my portfolio on magnushem.com
+- 📫 Reach me on jensenmagnushem@gmail.com, and checkout my portfolio on magnushem.com 
